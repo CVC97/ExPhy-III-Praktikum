@@ -1,9 +1,11 @@
-Länge Acrylstab: 
-Spielepos_start, Spiegelpos_edd
-
-
-
-
+Länge Acrylstab: (49 +- 0.05) cm
+Spiegelpos_start, Spiegelpos_end
+(+- 0.05 cm), (+- 0.05 cm)
+75, 96
+75, 99.7
+75, 98.4
+75, 99.5
+75, 96.8S
 
 
 x6
