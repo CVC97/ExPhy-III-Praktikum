@@ -5,7 +5,4 @@ Spiegelpos_start, Spiegelpos_end
 75, 99.7
 75, 98.4
 75, 99.5
-75, 96.8S
-
-
-x6
+75, 96.8

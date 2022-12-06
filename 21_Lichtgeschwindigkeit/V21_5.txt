@@ -1,4 +1,4 @@
-Länge Rohrküvette: 
+Länge Rohrküvette: (500 )
 Spielepos_start, Spiegelpos_edd
 (+- 0.05 cm), (+- 0.05 cm)
 75, 89.7
@@ -6,6 +6,3 @@ Spielepos_start, Spiegelpos_edd
 75, 87.4
 75, 88.0
 75, 89.1
-
-
-x6
