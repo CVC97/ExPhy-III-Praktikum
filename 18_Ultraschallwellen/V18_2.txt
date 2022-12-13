@@ -1,5 +1,5 @@
 Auftreffwinkel (Polyacryl), Ausgangsspannung v_a (longi), Ausgangsspannung v_a (trans)
-(+- 2.5 Grad), (+- 0.005 V), Verstärkung v (20 +-  db)
+(+- 2.5 Grad), (+- 0.005 V), Verstärkung v (20 +-  db: Gain: 5)
 0, 0.837, 0.073
 5, 0.739, 0.039
 10, 0.618, 0.053

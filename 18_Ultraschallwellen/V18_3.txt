@@ -1,21 +1,21 @@
-Auftreffwinkel (Aluminium), Ausgangsspannung v_a, Verstärkung v
-( +- 2.5 Grad), ( +-  V), ( +-  dB)
-0,
-5,
-10,
-15,
-20,
-25,
-30,
-35,
-40,
-45,
-50,
-55,
-60,
-65,
-70,
-75,
-80,
-85,
-90,
+Auftreffwinkel (Polyacryl), Ausgangsspannung v_a (longi), Ausgangsspannung v_a (trans)
+(+- 2.5 Grad), (+- 0.005 V), Verstärkung v (30 +-  db: Gain: 5 db)
+0, 0.778, 0.343
+5, 0.441, 0.087
+10, 0.169, 0.138
+15, 0.031, 0.390
+20, 0.020, 0.489
+25, 0.017, 0.208
+30, 0, 0.034
+35, 0, 0.025
+40, 0, 0
+45, 0, 0
+50, 0, 0
+55, 0, 0
+60, 0, 0
+65, 0, 0
+70, 0, 0
+75, 0, 0
+80, 0, 0
+85, 0, 0
+90, 0, 0
