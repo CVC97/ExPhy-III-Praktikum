@@ -7,7 +7,7 @@ Auftreffwinkel (Polyacryl), Ausgangsspannung v_a (longi), Ausgangsspannung v_a (
 20, 0.317, 0.160
 25, 0.191, 0.194
 30, 0.059, 0.228
-35, 0.020, 0.043
+35, 0.020, 0.343
 40, 0.008, 0.635
 45, 0.008, 0.711
 50, 0.014, 0.711
