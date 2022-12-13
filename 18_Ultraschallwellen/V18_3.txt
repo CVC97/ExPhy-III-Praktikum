@@ -1,5 +1,5 @@
 Auftreffwinkel (Aluminium), Ausgangsspannung v_a, Verstärkung v
-( +-  Grad), ( +-  V), ( +-  dB)
+( +- 2.5 Grad), ( +-  V), ( +-  dB)
 0,
 5,
 10,
