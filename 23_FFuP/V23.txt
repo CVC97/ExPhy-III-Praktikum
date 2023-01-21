@@ -1,6 +1,6 @@
 Referenz (0.00 +- 0.02 V): 
 P1-0, P1-90
-2.305, 1.029,
+3.24, 0.83
 
 Schwenkarm-Winkel (+- 2.5 °), P1-0, P1-90, P1-45 (mit Analysator P2, P2-Winkel mit minimaler Intensität, +- 1 °)
 10, 1.50, 0.20, -56
