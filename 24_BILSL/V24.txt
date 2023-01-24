@@ -1,0 +1,6 @@
+Abstand Objekt-Diode
+Spalt:
+Steg:
+Kreisblende:
+Doppellochblende:
+Gitter:
